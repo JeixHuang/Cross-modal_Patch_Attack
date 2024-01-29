@@ -7,7 +7,7 @@
 <div align="center">
 <img src="./demo.png"  alt="demo" />
  </div>
-
+ 
 ## 🍇 Usage
 <details open>
 <summary>Install</summary>
